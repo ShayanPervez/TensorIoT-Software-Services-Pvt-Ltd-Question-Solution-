@@ -20,8 +20,7 @@ OPTIONAL/BONUS - Create a method for the parking lot class that maps vehicles to
 ##Solution:
    The solution provided is in question.py
 
-   for amazon s3 bucket we need to install boto3:
-       pip install boto3
+   
 
     Description of this script:
       This script will:
@@ -30,3 +29,7 @@ OPTIONAL/BONUS - Create a method for the parking lot class that maps vehicles to
         Generate a list of cars with random license plates.
         Try to park each car in a at selected spot until it is parked or the parking lot is full.
         Save the final state of the parking lot to a JSON file.
+
+        for amazon s3 bucket we need to install boto3:
+        pip install boto3
+        
